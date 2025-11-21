@@ -6,6 +6,8 @@
 
 **Plataforma:** Databricks Free Edition (Serverless)
 
+**Enlace directo a notebook** : https://github.com/CesarPuentes/actividad2-big-data/blob/main/Taller.ipynb
+
 
 ---
 
