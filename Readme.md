@@ -67,11 +67,6 @@ erDiagram
     }
 ```
 
-<img src="diagrama.png" 
-     alt="Un diagrama reducido" 
-     style="width: 300px; height: auto;">
-
-
 ---
 
 ## 2. Configura y evidencia la infraestructura en Databricks CE
